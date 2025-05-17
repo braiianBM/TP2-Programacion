@@ -51,7 +51,7 @@ nav {
     background-color: white;
     border-radius: 8px;
     padding: 30px;
-    box-shadow: 0 2px 10px gray;
+    box-shadow: 0 20px 10px gray;
 }
 
 h1 {
@@ -115,10 +115,6 @@ table th {
     background-color: gray;
     border-radius: 30px;
 }
-.servicio-box h3{
-    color: gold;
-}
-
 .contenido-footer {
     margin: 0%;
 }
